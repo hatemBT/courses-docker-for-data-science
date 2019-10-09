@@ -8,7 +8,7 @@ description: 'Chapter description goes here.'
 ```yaml
 type: NormalExercise
 key: e8c1edbe67
-lang: python
+lang: shell
 xp: 100
 skills: 2
 ```
