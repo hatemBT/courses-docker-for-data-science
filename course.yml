@@ -1,4 +1,8 @@
 title: Docker for Data Science
-description: Course description goes here.
-programming_language: python
-from: python-base-prod:v1.0.2
+description: >-
+  Docker helps the developer to package their apps to be 
+  fully functionnal and portable, this feature is very 
+  reliable when running the app in the production environment
+  on the docker orchestration tools like kubernetes 
+programming_language: shell
+from: 'shell-base-prod:22'
