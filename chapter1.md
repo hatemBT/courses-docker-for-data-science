@@ -3,7 +3,7 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## what is docker
 
 ```yaml
 type: NormalExercise
@@ -13,7 +13,11 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+Docker is the most usable container technology, but what is a container ? in the `linux` world the container feature is not new, it's introduced in the linux kernel as `LXC : LinuX Container`.  
+
+
+
+
 
 `@instructions`
 
