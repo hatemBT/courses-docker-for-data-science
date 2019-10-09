@@ -8,7 +8,7 @@ description: 'Chapter description goes here.'
 ```yaml
 type: NormalExercise
 key: e8c1edbe67
-lang: shell
+lang: bash
 xp: 100
 skills: 2
 ```
@@ -23,7 +23,7 @@ Docker is the most usable container technology, but what is a container ? in the
 `@hint`
 
 
-`@pre_exercise_code`
+<!-- `@pre_exercise_code`
 ```{shell}
 
 ```
@@ -41,4 +41,4 @@ Docker is the most usable container technology, but what is a container ? in the
 `@sct`
 ```{shell}
 
-```
+``` -->
