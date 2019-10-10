@@ -12,21 +12,19 @@ key: 0c70786226
 xp: 50
 ```
 
-<<<<<<< HEAD
 
 Docker is the most container technology used in the market, It was first started in 2013 and is developed by `Docker, Inc.`. But what is a `container` ?.
 
-The container is an environment that is isolated (little bit like the virtual machine) from the host OS which mean it has his own processes and file system  but it shares the basic infrastructure which is the Linux kernel and the `Docker engine (server)` is the responsible for running and managing containers.
+The container is an environment that is isolated ( little bit like the virtual machine ) from the host OS which mean it has his own processes and file system  but it shares the basic infrastructure which is the Linux kernel. The `Docker engine (server)` is the responsible for running and managing containers ( clients ).
 
 
-Docker is used to ship all the requirements of the application like libraries, configuration files  and source code in a single package called `image`. images are a collection of layers ( locked and editable). locked layers belogs to the base image, editable layers are created in the build 
-phase and it contains the app source code and config files.  
+Docker is used to ship all the requirements of the application like libraries, configuration files  and source code in a single package called `image`. images are a collection of layers ( locked and editable). locked layers belongs to the base image, editable layers are created in the build phase and it contains the app source code and config files.  
 
 
-How to create a docker image ? `Dockerfile` is a yaml file that contain instruction or steps to build custom images based on a standard images (alpine, debian, ubuntu, centos ...) often founded on `Dockerhub` which is a public container registry that contains a lot of images created by other people. 
+How to create a docker image ? `Dockerfile` is a yaml file that contain instructions or steps to build custom images based on a standard images likealpine, debian, ubuntu and centos often founded on `Dockerhub` which is a public container registry that contains a lot of images created by other people. 
 
 
-CHOOSE  the correct statement that `Describe` Docker. 
+>CHOOSE  the correct statement that `Describe` Docker. 
 
 
 
