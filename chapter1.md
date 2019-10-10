@@ -14,7 +14,7 @@ xp: 50
 
 What is Docker ?
 
-Docker is the most caontainer technology used in the market even datacamp uses docker. But what is a container ?? the container is an envirement that is isolated from the host OS wich means the isolated envirement has it's own processes and file system but it share the basic infrastructure which is the linux kernal.   
+Docker is the most container technology used in the market even DataCamp uses docker. But what is a container ?? the container is an environment that is isolated from the host OS which means the isolated environment has it's own processes and file system but it share the basic infrastructure which is the Linux kernel.   
 
 
 <!-- Guidelines for the question: https://instructor-support.datacamp.com/en/articles/2375516-course-multiple-choice-exercises. -->
