@@ -13,7 +13,8 @@ xp: 50
 ```
 
 
-Docker is the most container technology used in the market, It was first started in 2013 and is developed by `Docker, Inc.`. But what is a `container` ?.
+Docker is the most container technology used in the market, It was first started in 2013 and is developed by `Docker, Inc.`.
+But what is a `container` ?.
 
 The container is an environment that is isolated ( little bit like the virtual machine ) from the host OS which mean it has his own processes and file system  but it shares the basic infrastructure which is the Linux kernel. The `Docker engine (server)` is the responsible for running and managing containers ( clients ).
 
