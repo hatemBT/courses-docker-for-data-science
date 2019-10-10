@@ -1,14 +1,14 @@
 ---
 title: 'Docker basic command line'
 description: 'master the basics of docker Cli'
+free_preview: true
 ---
 
 ## what is docker
 
 ```yaml
 type: NormalExercise
-key: e8c1edbe67
-lang: bash
+lang: shell
 xp: 100
 skills: 2
 ```
