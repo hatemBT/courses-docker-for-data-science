@@ -12,7 +12,6 @@ key: 0c70786226
 xp: 50
 ```
 
-
 Docker is the most container technology used in the market, It was first started in 2013 and is developed by `Docker, Inc.`.
 But what is a `container` ?.
 
@@ -65,9 +64,6 @@ type: MultipleChoiceExercise
 key: d60cab3dbe
 xp: 50
 ```
-
-
-
 
 <!-- Guidelines for the question: https://instructor-support.datacamp.com/en/articles/2375523-course-multiple-choice-with-console-exercises. -->
 
