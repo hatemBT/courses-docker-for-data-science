@@ -21,24 +21,17 @@ Docker is the most usable container technology, but what is a container ? in the
 * get the help commands with `docker --help`
 
 `@hint`
+soon
+
+`@possible_answers`
+
+* systemctl status docker
+* doker version
+* docker --help
+
+`@feedback`
+* ok
+* ok 
+* ok
 
 
-`@pre_exercise_code`
-```{shell}
-
-```
-
-`@sample_code`
-```{shell}
-
-```
-
-`@solution`
-```{shell}
-
-```
-
-`@sct`
-```{shell}
-
-``` 
