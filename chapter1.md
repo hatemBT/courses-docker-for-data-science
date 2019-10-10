@@ -23,4 +23,22 @@ Docker is the most usable container technology, but what is a container ? in the
 `@hint`
 soon aaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaa a
 
+`@pre_exercise_code`
+```{python}
 
+```
+
+`@sample_code`
+```{shell}
+
+```
+
+`@solution`
+```{shell}
+
+```
+
+`@sct`
+```{python}
+
+```
