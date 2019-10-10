@@ -8,10 +8,10 @@ free_preview: true
 
 ```yaml
 type: NormalExercise
+key: e8c1edbe67
 lang: shell
 xp: 100
 skills: 2
-key: e8c1edbe67
 ```
 
 Docker is the most usable container technology, but what is a container ? in the `linux` world the container feature is not new, it's introduced in the linux kernel as `LXC : LinuX Container`.
@@ -24,4 +24,22 @@ Docker is the most usable container technology, but what is a container ? in the
 `@hint`
 soon aaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaa a
 
+`@pre_exercise_code`
+```{python}
 
+```
+
+`@sample_code`
+```{shell}
+
+```
+
+`@solution`
+```{shell}
+
+```
+
+`@sct`
+```{python}
+
+```
