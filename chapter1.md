@@ -4,7 +4,7 @@ description: 'master the basics of docker Cli'
 free_preview: true
 ---
 
-## Insert exercise title here
+## What is Docker ?
 
 ```yaml
 type: PureMultipleChoiceExercise
@@ -12,9 +12,8 @@ key: 0c70786226
 xp: 50
 ```
 
-What is Docker ?
 
-Docker is the most container technology used in the market even DataCamp uses docker. But what is a container ?? the container is an environment that is isolated from the host OS which means the isolated environment has it's own processes and file system but it share the basic infrastructure which is the Linux kernel.   
+Docker is the most container technology used in the market even DataCamp uses docker. But what is a `container` ?? the container is an environment that is isolated from the host OS which means  it have his own processes and file system but it share the basic infrastructure which is the Linux kernel.   
 
 
 <!-- Guidelines for the question: https://instructor-support.datacamp.com/en/articles/2375516-course-multiple-choice-exercises. -->
