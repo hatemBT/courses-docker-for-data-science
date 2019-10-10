@@ -12,30 +12,26 @@ key: 0c70786226
 xp: 50
 ```
 
-<<<<<<< HEAD
 
-=======
->>>>>>> f5f57c2b6afb9ce00e3ae94b847de16abacbef10
 Docker is the most container technology used in the market, It was first started in 2013 and is developed by `Docker, Inc.`. But what is a `container` ?.
 
 The container is an environment that is isolated ( little bit like the virtual machine ) from the host OS which mean it has his own processes and file system  but it shares the basic infrastructure which is the Linux kernel. The `Docker engine (server)` is the responsible for running and managing containers ( clients ).
 
 
-<<<<<<< HEAD
+
 Docker is used to ship all the requirements of the application like libraries, configuration files  and source code in a single package called `image`. images are a collection of layers ( locked and editable). locked layers belongs to the base image, editable layers are created in the build phase and it contains the app source code and config files.  
 
 
-How to create a docker image ? `Dockerfile` is a yaml file that contain instructions or steps to build custom images based on a standard images likealpine, debian, ubuntu and centos often founded on `Dockerhub` which is a public container registry that contains a lot of images created by other people. 
-=======
+How to create a docker image ? `Dockerfile` is a yaml file that contain instructions or steps to build custom images based on a standard images like Alpine, debian, ubuntu and centos often founded on `Dockerhub` which is a public container registry that contains a lot of images created by other people. 
+
 Docker is used to ship all the requirements of the application like libraries, configuration files  and source code in a single package called `image`. images are a collection of layers ( locked and editable). locked layers belongs to the base image, editable layers are created in the build 
 phase and it contains the app source code and config files.  
 
 
 How to create a docker image ? `Dockerfile` is a yaml file that contain instruction or steps to build custom images based on a standard images (alpine, Debian, Ubuntu, Centos ...) often founded on `Dockerhub` which is a public container registry that contains a lot of images created by other people. 
->>>>>>> f5f57c2b6afb9ce00e3ae94b847de16abacbef10
 
 
->CHOOSE  the correct statement that `Describe` Docker. 
+_Choose  the correct statement that `Describe` Docker._ 
 
 
 
