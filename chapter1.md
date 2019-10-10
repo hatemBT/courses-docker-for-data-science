@@ -4,42 +4,28 @@ description: 'master the basics of docker Cli'
 free_preview: true
 ---
 
-## what is docker
+## Insert exercise title here
 
 ```yaml
-type: NormalExercise
-key: e8c1edbe67
-lang: shell
-xp: 100
-skills: 2
+type: PureMultipleChoiceExercise
+key: 0c70786226
+xp: 50
 ```
 
-Docker is the most usable container technology, but what is a container ? in the `linux` world the container feature is not new, it's introduced in the linux kernel as `LXC : LinuX Container`.
-
-`@instructions`
-* Check if Docker is running with `systemctl status docker`
-* get the Docker version `docker version`
-* get the help commands with `docker --help`
+<!-- Guidelines for the question: https://instructor-support.datacamp.com/en/articles/2375516-course-multiple-choice-exercises. -->
 
 `@hint`
-soon aaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaa a
+<!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
+- This is an example hint.
+- This is an example hint.
 
-`@pre_exercise_code`
-```{python}
+`@possible_answers`
+- [Correct answer 1]
+- Wrong answer 2
+- Wrong answer 3
 
-```
-
-`@sample_code`
-```{shell}
-
-```
-
-`@solution`
-```{shell}
-
-```
-
-`@sct`
-```{python}
-
-```
+`@feedback`
+<!-- Examples of good feedback messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.  -->
+- Perfect!
+- Error message answer 2
+- Error message answer 3
