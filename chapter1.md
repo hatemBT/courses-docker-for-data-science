@@ -35,13 +35,13 @@ CHOOSE  the correct statement that `Describe` Docker.
 
 `@hint`
 <!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
-- Docker images are based on the `linux kernel` 
+- Docker images are based on the `linux kernel`
 
 `@possible_answers`
 - [ Every docker image can run on any linux system]
 - Docker images can run directly on windows
 - Dockerfiles are used to deploy images 
-- Dockerhub can run apps on docker containes 
+- Dockerhub can run apps on docker containes
 
 `@feedback`
 <!-- Examples of good feedback messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.  -->
