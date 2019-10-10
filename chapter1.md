@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Docker basic command line'
+description: 'master the basics of docker Cli'
 ---
 
 ## what is docker
