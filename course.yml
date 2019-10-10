@@ -4,4 +4,5 @@ description: >-
   fully functionnal and portable, this feature is very 
   reliable when running the app in the production environment
   on the docker orchestration tools like kubernetes 
-
+programming_language: shell
+from: 'shell-base-prod:22'
