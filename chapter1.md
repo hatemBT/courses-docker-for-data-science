@@ -66,6 +66,9 @@ key: d60cab3dbe
 xp: 50
 ```
 
+
+
+
 <!-- Guidelines for the question: https://instructor-support.datacamp.com/en/articles/2375523-course-multiple-choice-with-console-exercises. -->
 
 `@possible_answers`
